@@ -4,10 +4,10 @@ import ScrollFadeIn from './ScrollFadeIn';
 
 const readings = [
   "David Graeber — Bullshit Jobs: A Theory (Simon & Schuster, 2018)",
-  "David Autor — "Why Are There Still So Many Jobs?" (Journal of Economic Perspectives, 2015)",
-  "Acemoglu & Restrepo — "Automation and New Tasks" (Journal of Economic Perspectives, 2019)",
-  "Brynjolfsson, Li, Raymond — "Generative AI at Work" (Quarterly Journal of Economics, 2025)",
-  "Card, Kluve, Weber — "What Works?" meta-analysis of labor market programs (NBER Working Paper)",
+  "David Autor — 'Why Are There Still So Many Jobs?' (Journal of Economic Perspectives, 2015)",
+  "Acemoglu & Restrepo — 'Automation and New Tasks' (Journal of Economic Perspectives, 2019)",
+  "Brynjolfsson, Li, Raymond — 'Generative AI at Work' (Quarterly Journal of Economics, 2025)",
+  "Card, Kluve, Weber — 'What Works?' meta-analysis of labor market programs (NBER Working Paper)",
   "Baumol — The Cost Disease (Yale University Press, 2012)",
   "Stanford HAI — AI Index 2025 (Stanford University)",
   "IMF — Gen-AI: Artificial Intelligence and the Future of Work (Staff Discussion Note, 2024)",
